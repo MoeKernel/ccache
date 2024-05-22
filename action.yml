@@ -1,4 +1,4 @@
-name: "Ccache for gh actions"
+name: "ccacheMoe"
 description: "A GitHub Action that speeds up compiling for C/C++ projects using ccache."
 author: "Hendrik Muhs<hendrik.muhs@gmail.com>"
 inputs:
